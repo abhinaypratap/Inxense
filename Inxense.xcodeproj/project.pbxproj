@@ -12,6 +12,7 @@
 		3BBE356028AFC76500853D7E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3BBE355F28AFC76500853D7E /* Assets.xcassets */; };
 		3BBE356328AFC76500853D7E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3BBE356228AFC76500853D7E /* Preview Assets.xcassets */; };
 		3BBE356A28AFC78C00853D7E /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 3BBE356928AFC78C00853D7E /* README.md */; };
+		3BBE356C28AFC98400853D7E /* task.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BBE356B28AFC98400853D7E /* task.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		3BBE355F28AFC76500853D7E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3BBE356228AFC76500853D7E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3BBE356928AFC78C00853D7E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
+		3BBE356B28AFC98400853D7E /* task.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = task.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				3BBE355F28AFC76500853D7E /* Assets.xcassets */,
 				3BBE356128AFC76500853D7E /* Preview Content */,
 				3BBE356928AFC78C00853D7E /* README.md */,
+				3BBE356B28AFC98400853D7E /* task.png */,
 			);
 			path = Inxense;
 			sourceTree = "<group>";
@@ -131,6 +134,7 @@
 				3BBE356A28AFC78C00853D7E /* README.md in Resources */,
 				3BBE356328AFC76500853D7E /* Preview Assets.xcassets in Resources */,
 				3BBE356028AFC76500853D7E /* Assets.xcassets in Resources */,
+				3BBE356C28AFC98400853D7E /* task.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
