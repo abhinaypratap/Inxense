@@ -35,7 +35,6 @@ struct ContentView: View {
                         .cornerRadius(10)
                     
                     Text("Password")
-                    //                        .font(.callout)
                         .foregroundColor(.black)
                         .frame(width: 300, alignment: .leading)
                     
