@@ -1,6 +1,6 @@
 import SwiftUI
 
-struct ContentView: View {
+struct LoginScreen: View {
     var body: some View {
         VStack {
             Text("Hello, world!")
@@ -8,8 +8,8 @@ struct ContentView: View {
     }
 }
 
-struct ContentView_Previews: PreviewProvider {
+struct LoginScreen_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+        LoginScreen()
     }
 }

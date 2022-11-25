@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		3BBE355C28AFC75F00853D7E /* AppMain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BBE355B28AFC75F00853D7E /* AppMain.swift */; };
-		3BBE355E28AFC75F00853D7E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BBE355D28AFC75F00853D7E /* ContentView.swift */; };
+		3BBE355E28AFC75F00853D7E /* LoginScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BBE355D28AFC75F00853D7E /* LoginScreen.swift */; };
 		3BBE356028AFC76500853D7E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3BBE355F28AFC76500853D7E /* Assets.xcassets */; };
 		3BBE356328AFC76500853D7E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3BBE356228AFC76500853D7E /* Preview Assets.xcassets */; };
 		3BBE356A28AFC78C00853D7E /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 3BBE356928AFC78C00853D7E /* README.md */; };
@@ -18,7 +18,7 @@
 /* Begin PBXFileReference section */
 		3BBE355828AFC75F00853D7E /* Inxense.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Inxense.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3BBE355B28AFC75F00853D7E /* AppMain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppMain.swift; sourceTree = "<group>"; };
-		3BBE355D28AFC75F00853D7E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		3BBE355D28AFC75F00853D7E /* LoginScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginScreen.swift; sourceTree = "<group>"; };
 		3BBE355F28AFC76500853D7E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3BBE356228AFC76500853D7E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3BBE356928AFC78C00853D7E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
@@ -57,10 +57,10 @@
 			children = (
 				3BBE356928AFC78C00853D7E /* README.md */,
 				3BBE355B28AFC75F00853D7E /* AppMain.swift */,
-				3BBE355D28AFC75F00853D7E /* ContentView.swift */,
+				3BBE355D28AFC75F00853D7E /* LoginScreen.swift */,
+				3BBE356B28AFC98400853D7E /* task.png */,
 				3BBE356128AFC76500853D7E /* Preview Content */,
 				3BBE355F28AFC76500853D7E /* Assets.xcassets */,
-				3BBE356B28AFC98400853D7E /* task.png */,
 			);
 			path = Inxense;
 			sourceTree = "<group>";
@@ -145,7 +145,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3BBE355E28AFC75F00853D7E /* ContentView.swift in Sources */,
+				3BBE355E28AFC75F00853D7E /* LoginScreen.swift in Sources */,
 				3BBE355C28AFC75F00853D7E /* AppMain.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
